@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-calc-crypto/static/css/main.eaf4412a.css",
+    "main.js": "/react-calc-crypto/static/js/main.92622e6b.js",
+    "static/js/787.b081631f.chunk.js": "/react-calc-crypto/static/js/787.b081631f.chunk.js",
+    "index.html": "/react-calc-crypto/index.html",
+    "main.eaf4412a.css.map": "/react-calc-crypto/static/css/main.eaf4412a.css.map",
+    "main.92622e6b.js.map": "/react-calc-crypto/static/js/main.92622e6b.js.map",
+    "787.b081631f.chunk.js.map": "/react-calc-crypto/static/js/787.b081631f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaf4412a.css",
+    "static/js/main.92622e6b.js"
+  ]
+}
