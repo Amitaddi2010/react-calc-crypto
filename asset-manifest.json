@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/react-calc-crypto/static/css/main.eaf4412a.css",
-    "main.js": "/react-calc-crypto/static/js/main.92622e6b.js",
+    "main.css": "/react-calc-crypto/static/css/main.be4aa5da.css",
+    "main.js": "/react-calc-crypto/static/js/main.d01b2aa6.js",
     "static/js/787.b081631f.chunk.js": "/react-calc-crypto/static/js/787.b081631f.chunk.js",
+    "static/media/blockchain.webp": "/react-calc-crypto/static/media/blockchain.377d58c049da0dd71276.webp",
     "index.html": "/react-calc-crypto/index.html",
-    "main.eaf4412a.css.map": "/react-calc-crypto/static/css/main.eaf4412a.css.map",
-    "main.92622e6b.js.map": "/react-calc-crypto/static/js/main.92622e6b.js.map",
+    "main.be4aa5da.css.map": "/react-calc-crypto/static/css/main.be4aa5da.css.map",
+    "main.d01b2aa6.js.map": "/react-calc-crypto/static/js/main.d01b2aa6.js.map",
     "787.b081631f.chunk.js.map": "/react-calc-crypto/static/js/787.b081631f.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eaf4412a.css",
-    "static/js/main.92622e6b.js"
+    "static/css/main.be4aa5da.css",
+    "static/js/main.d01b2aa6.js"
   ]
 }
