@@ -18,7 +18,7 @@ const [output, setOutput] = useState(0);
 // Calling the api whenever the dependency changes
 useEffect(() => {
 	Axios.get(
-`https://api.coingecko.com/api/v3/coins/bitcoin/history?date=${from}&localization=false`)
+`https://cdn.jsdelivr.net/gh/fawazahmed0/currency-api@1/latest/currencies/${from}.json`)
 .then((res) => {
 	setInfo(res.data[from]);
 	})
